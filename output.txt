@@ -1,0 +1,21 @@
+pushed   1
+pushed   2
+popped   1
+pushed   5
+pushed   6
+pushed   7
+pushed   8
+pushed   9
+pushed  10
+popped   2
+popped   5
+popped   6
+pushed  15
+popped   7
+popped   8
+popped   9
+pushed  20
+popped  10
+popped  15
+popped  20
+buffer empty - cannot pop.
